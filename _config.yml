@@ -11,7 +11,7 @@ github_repo: "https://github.com/runrun88/runrun88.github.io" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Fintech entrepreneur, Fintech investor "
+sidebar-about-description: "Fintech entrepreneur and Fintech investor led you know more about Fintech "
 sidebar-avatar: /img/zhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
