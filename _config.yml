@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: b6d4839e030e9354e766                            #生成的clientID
-  clientSecret: c718af5ef14029c20422cb8cb3847ebd04bfa1d7    #生成的clientSecret
+  clientID: e299704f249dd53d6648                            #生成的clientID
+  clientSecret: ea691b7f3053a54a57be45a013ef3fda7fb4449f    #生成的clientSecret
   repo: runrun88.github.io    #仓库名称
   owner: runrun88    #github用户名
-  admin: runrun88
+  admin: FintechObserver
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: fintechobserver.com              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
