@@ -102,13 +102,13 @@ friends: [
         title: "Fintech innovation lab",
         href: "http://www.fintechinnovationlab.com/"
     },{
-        title: "微信·Fintech观察家",
+        title: "微信公众号·Fintech观察家",
         href: "http://mp.weixin.qq.com/profile?src=3&timestamp=1549958588&ver=1&signature=vQhwrB1yb6hM-bXoJ2NDoPMMmnmrqGBfkscLlUbw*RJPTcWL-O6Y5JmFzRVIsWJdK*SJ-J*1L*MPZ7cbm5dTPw=="
     },{
         title: "网贷之家",
         href: "https://www.wdzj.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "CoinMarketCap",
+        href: "https://coinmarketcap.com/"
     }
 ]
