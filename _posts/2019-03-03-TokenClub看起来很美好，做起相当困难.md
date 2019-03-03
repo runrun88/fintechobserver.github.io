@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      TokenClub看起来美好，做起相当困难
+title:      TokenClub看起来很美好，做起相当困难
 subtitle:    TokenClub 有奖征文
 date:       2019-03-03
 author:     FintechObserver
