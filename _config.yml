@@ -17,7 +17,7 @@ sidebar-about-description: "Fintech entrepreneur and Fintech investor led you kn
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     Fintech观察家
 zhihu_username:     zhaoakui
 github_username:     runrun88
