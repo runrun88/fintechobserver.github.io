@@ -17,13 +17,13 @@ sidebar-avatar: /img/zhao.jpg      # use absolute URL, seeing it's used in both 
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     Fintech观察家
 zhihu_username:     zhaoakui
 github_username:     runrun88
 facebook_username:  anthony.zhao
 weixin_username:   122256394
-#twitter_username:   qiubaiying
+twitter_username:   anthonyzhao83
 
 
 
