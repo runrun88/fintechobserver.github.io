@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      投资中的第4大坑：无思考
-subtitle:   avoid investment traps in Fintech
+title:      avoid investment traps in Fintech：without thinking
+subtitle:   投资中的第4大坑：无思考
 date:       2019-03-20
 author:     FintechObserver
 header-img: img/post-dakeng.jpg
@@ -38,4 +38,4 @@ tags:
 
 投资，无论如何都要深度思考。哪怕是再好的东西，如果涨得多了，也会调整的。
 
-投资，还是需要深入的思考和判断。
+## 投资，还是需要深入的思考和判断。
