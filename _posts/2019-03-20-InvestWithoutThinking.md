@@ -7,7 +7,7 @@ author:     FintechObserver
 header-img: img/post-dakeng.jpg
 catalog: true
 tags:
-    - 投资坑 investment traps
+    - investment traps
     - without thinking
     - Fintech
     - BTC
@@ -18,7 +18,7 @@ tags:
 1. 小高从2007年4月到2007年10月股市见顶前，他始终坚持长期操作，股票账户从十几万变成了七十多万。
 1. 2009年6月，沪指经历了从6124跌到1664的大跌，然后反弹到了3000点。小高的账户有1400万，都是股票。 
 1. 2010年3月份，小高的账户市值竟然达到了9990万。
-1. 2010年底的时候，花卖股买房，拥有28套房了。
+1. 2010年底的时候，小高卖了股票，大量开始买房，拥有28套房了。
 
 真是神一样的存在啊！
 
