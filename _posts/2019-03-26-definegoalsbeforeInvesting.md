@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      define clear goals before Investing and  also adjust to changing circumstances
+title:      define clear goals  and  also adjust to changing circumstances in investment
 subtitle:   投资既要明确目的，也要考虑随机应变
 date:       2019-03-26
 author:     FintechObserver
