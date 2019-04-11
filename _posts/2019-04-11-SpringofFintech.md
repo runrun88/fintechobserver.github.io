@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The spring of Fintech  is coming.
+title:      The spring of Fintech  is coming
 subtitle:   金融科技的春天已经来临
 date:       2019-04-10
 author:     FintechObserver
