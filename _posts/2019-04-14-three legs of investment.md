@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Three legs of investment makes you more secure.
+title:      Three legs of investment makes you more secure
 subtitle:   三足投资，让你的投资之路更稳健
 date:       2019-04-14
 author:     FintechObserver
