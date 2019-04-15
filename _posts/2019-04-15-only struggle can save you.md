@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Only struggle can save you.
+title:      Only struggle can save you
 subtitle:   唯有不断挣扎，才有未来
 date:       2019-04-15
 author:     FintechObserver
@@ -10,7 +10,7 @@ tags:
     -  life
     -  invest
     -  BTC
-    -  
+    -  future
 ---
 纵观人类历史，自古以来：王者王，将者将，强者强，弱者弱，智者智，蠢者蠢！
 
