@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      搬瓦工，让你更自由的浏览世界
+title:      搬瓦工，给你更多自由
 subtitle:   bandwagonhost gives  you to the freedom
 date:       2019-04-18
 author:     FintechObserver
