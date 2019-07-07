@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Investment and Investmentbank
+title:      Investment and Investment bank
 subtitle:   投资还是投行？两者有很大差异
 date:       2019-07-07
 author:     FintechObserver
