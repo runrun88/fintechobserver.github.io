@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The people who owns one bitcoin are elites.
+title:      The people who owns one bitcoin are elites
 subtitle:   拥有1个比特币的都是人类精英
 date:       2019-07-06
 author:     FintechObserver
