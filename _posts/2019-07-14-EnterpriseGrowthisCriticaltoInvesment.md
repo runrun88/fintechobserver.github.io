@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Enterprise Growth is Critical to  Invesment
-subtitle:  当前投资中避免的坑：现在牛逼，未来增长乏力
+subtitle:  股权投资中的坑：现在牛逼，未来增长乏力
 date:       2019-07-14
 author:     FintechObserver
 header-img: img/post-bg-universe.jpg
